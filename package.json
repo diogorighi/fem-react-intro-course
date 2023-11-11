@@ -13,7 +13,7 @@
   "author": "Brian Holt <btholt@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.9.1",
+    "axios": "1.6.0",
     "express": "4.13.4",
     "lodash": ">=4.17.11",
     "node-ensure": "0.0.0",
